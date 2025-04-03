@@ -34,6 +34,9 @@ python main.py
 - Python 3.7+
 - `requests`, `python-dotenv`, `smtplib`
 
+## 📸 Screenshot
+![Screenshot](screenshot.png)
+
 ## 🛠️ Technologies Used
 - Python
 - Alpha Vantage API (Stock Data)
